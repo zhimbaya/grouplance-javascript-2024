@@ -7,3 +7,9 @@
 - Instalación de node.js
 - npm install -g eslint
 - ir a la carpeta donde esta .js > eslint .js
+
+## 09/04/204
+- Ejercicios: se empieza JAVASCRIPT
+- 
+## 10/04/204
+- 
