@@ -45,3 +45,6 @@ console.log(actividad.toLowerCase());
 
 console.log(precio.toString());
 
+
+
+
