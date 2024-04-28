@@ -17,4 +17,7 @@
 ## 11/04/2024
 - Ejercicios de números
 - [Orden de precedencia](https://www.luisllamas.es/programacion-precedencia-operadores/#:~:text=La%20precedencia%20de%20operadores%20en%20programaci%C3%B3n%20se%20refiere,m%C3%BAltiples%20operadores%2C%20no%20todos%20tienen%20la%20misma%20prioridad) 
-- 
+  
+## 18/04/2024
+-
+## 24/04/2024
